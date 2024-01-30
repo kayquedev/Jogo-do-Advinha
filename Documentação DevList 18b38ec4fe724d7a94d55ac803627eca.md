@@ -58,7 +58,7 @@ A função cadastro é o método principal para acessar o aplicativo. O primeiro
 
 Essa função permite aos usuários criar e armazenar informações sobre diferentes atividades ou afazeres que precisam ser realizados, adicionando titulo, descrição, prazo e até mesmo prioridade da tarefa.
 
-`[Button: **+** ]`
+`[Button: + ]`
 
 ### 4. Função Editar Tarefa
 
